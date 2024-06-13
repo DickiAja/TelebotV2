@@ -1,4 +1,4 @@
-var link = "https://t.me/TestiSunShineo"
+var link = "https://t.me/SunShine2203"
 exports.noToken = "Bot token tidak boleh kosong, silahkan buat bot melalui https://t.me/BotFather"
 
 exports.first_chat = (botname, pushname) => {
