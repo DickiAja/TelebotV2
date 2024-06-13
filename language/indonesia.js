@@ -1,5 +1,5 @@
 var link = "https://t.me/SunShine2203"
-exports.noToken = "Bot token tidak boleh kosong, silahkan buat bot melalui https://t.me/BotFather"
+exports.noToken = "7243530155:AAGJ2l_7asHpy6E4iXiDtmfbTGig6_cORR0"
 
 exports.first_chat = (botname, pushname) => {
     return `Halo ${pushname}! Nama saya ${botname} - Saya adalah Bot Telegram multi fungsi! Klik /menu untuk mengetahui lebih lanjut tentang cara menggunakan bot ini.
