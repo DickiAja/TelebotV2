@@ -12,7 +12,7 @@ const moment = require('moment-timezone')
 const os = require('os')
 const speed = require('performance-now')
 
-if (BOT_TOKEN == '7243530155:AAGJ2l_7asHpy6E4iXiDtmfbTGig6_cORR0') {
+if (BOT_TOKEN == 'YOUR_TELEGRAM_BOT_TOKEN') {
     return console.log(lang.noToken)
 }
 
